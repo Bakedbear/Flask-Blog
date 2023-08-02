@@ -1,0 +1,7 @@
+Flask - 2.3.2
+Flask_SQLAlchemy - 2.5.1
+SQLAlchemy - 2.0.17 or newer
+Werkzeug 2.3.6
+Passlib
+WTForms
+Python 3.11.4 or newer
