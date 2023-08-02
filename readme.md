@@ -20,7 +20,7 @@ FlaskBlog is a web application for creating and reading blog posts, developed us
 ## Screenshots
 
 ### Home
-![Home](https://github.com/Bakedbear/Flask-Blog/blob/main/screenshots/Screenshot%209-home%20feed.png?raw=true)
+![Home](https://github.com/Bakedbear/Flask-Blog/blob/main/screenshots/Screenshot%201-home.png?raw=true)
 
 ### Login Page
 ![Login](https://github.com/Bakedbear/Flask-Blog/blob/main/screenshots/Screenshot%202-login.png?raw=true)
